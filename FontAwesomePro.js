@@ -1,4 +1,5 @@
 import React from 'react';
+import Icons from './Icons';
 import PropTypes from 'prop-types';
 import { Text, StyleSheet } from 'react-native';
 
@@ -60,4 +61,6 @@ class FontAwesomePro extends React.Component<Props> {
 
 FontAwesomePro.propTypes = propTypes;
 
+export { FontAwesomePro, Icons };
 export default FontAwesomePro;
+

@@ -1,0 +1,31 @@
+{
+  "name": "react-native-font-awesome-pro",
+  "version": "1.0.0",
+  "description": "Font Awesome Pro For React Native",
+  "main": "FontAwesomePro.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songhuyse/react-native-fontawesome-pro.git"
+  },
+  "keywords": [
+    "Font",
+    "Icon",
+    "Awesome",
+    "FontAwesome",
+    "FontAwesomePro",
+    "Font-Awesome",
+    "Font-Awesome-Pro",
+    "react-native",
+    "react-native-fontawesome",
+    "react-native-fontawesome-pro"
+  ],
+  "author": "Song Huyse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songhuyse/react-native-fontawesome-pro/issues"
+  },
+  "homepage": "https://github.com/songhuyse/react-native-fontawesome-pro#readme"
+}
