@@ -1,5 +1,5 @@
-# react-native-fontawesome
-React Native Fontawesome Icons
+# react-native-fontawesomepro
+React Native Fontawesome Pro Icons
 
 [![npm version](https://img.shields.io/npm/v/react-native-fontawesome-pro.svg?style=flat-square)](https://www.npmjs.com/package/react-native-fontawesome-pro)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-fontawesome-pro.svg?style=flat-square)](https://www.npmjs.com/package/react-native-fontawesome-pro)
@@ -15,10 +15,10 @@ React Native Fontawesome Icons
 ## Using yarn
 `npm i -g yarn`
 
-`yarn add react-native-fontawesome-pro`
+`yarn add react-native-fontawesomepro`
 
 ## Using npm
-`npm i --save react-native-fontawesome-pro`
+`npm i --save react-native-fontawesomepro`
 
 This module uses Font Awesome Pro version [5.2.0]
 Buy Font Awesome Pro (https://fontawesome.com/pricing)
@@ -46,7 +46,7 @@ Adding Custom Fonts to A React Native Application for Android
 
 # Usage
 ```javascript
-import FontAwesomePro, { Icons } from 'react-native-fontawesome-pro';
+import FontAwesomePro, { Icons } from 'react-native-fontawesomepro';
 
 ...
 render() {
