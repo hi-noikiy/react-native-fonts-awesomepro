@@ -1,14 +1,14 @@
 {
-  "name": "react-native-font-awesome-pro",
-  "version": "1.0.0",
+  "name": "react-native-fonts-awesomepro",
+  "version": "2.0.0",
   "description": "Font Awesome Pro For React Native",
   "main": "FontAwesomePro.js",
   "scripts": {
-    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/songhuyse/react-native-fontawesome-pro.git"
+    "url": "git+https://github.com/songhuyse/react-native-fontawesomepro.git"
   },
   "keywords": [
     "Font",
@@ -16,16 +16,15 @@
     "Awesome",
     "FontAwesome",
     "FontAwesomePro",
-    "Font-Awesome",
-    "Font-Awesome-Pro",
-    "react-native",
+    "reac-native",
+    "react-native-font",
     "react-native-fontawesome",
-    "react-native-fontawesome-pro"
+    "react-native-fonts-awesomepro"
   ],
   "author": "Song Huyse",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/songhuyse/react-native-fontawesome-pro/issues"
+    "url": "https://github.com/songhuyse/react-native-fontawesomepro/issues"
   },
-  "homepage": "https://github.com/songhuyse/react-native-fontawesome-pro#readme"
+  "homepage": "https://github.com/songhuyse/react-native-fontawesomepro#readme"
 }
